@@ -2,7 +2,7 @@
 
 A first-person adventure game built with Unity 6, where you explore a mysterious forest, collect magical pages, interact with NPCs, and face various challenges to complete your quest.
 
-## 🎮 Game Overview
+## Game Overview
 
 Forest Fetch Quest is an immersive first-person exploration game set in a fantasy forest environment. Your objective is to collect scattered pages from a magical book while navigating through the forest, avoiding hazards, and interacting with the world around you.
 
