@@ -38,7 +38,7 @@ The project uses the following Unity packages (automatically managed via Package
 - **RAM**: 4GB minimum (8GB recommended)
 - **Storage**: ~3GB free space (includes all assets)
 
-## 📦 Installation
+## Installation
 
 1. **Clone the repository**:
    ```bash
@@ -73,7 +73,7 @@ The project uses the following Unity packages (automatically managed via Package
    - Navigate to `Assets/MainScene.unity`
    - Press Play to test the game
 
-## 🎯 How to Play
+## How to Play
 
 ### Controls
 - **WASD**: Move
@@ -90,7 +90,7 @@ The project uses the following Unity packages (automatically managed via Package
 4. Return to the hut once all pages are collected
 5. Use the activated portal to complete your quest
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Forest-Fetch-Quest/
@@ -112,7 +112,7 @@ Forest-Fetch-Quest/
 └── README.md                 # This file
 ```
 
-## 🎨 Assets & Credits
+## Assets & Credits
 
 This project includes assets from various sources:
 
@@ -126,7 +126,7 @@ This project includes assets from various sources:
 - **TextMesh Pro**: Text rendering (Unity package)
 - Various other free and paid assets from the Unity Asset Store
 
-## 🚀 Building the Project
+## Building the Project
 
 ### WebGL Build
 1. Go to `File > Build Settings`
@@ -140,24 +140,20 @@ This project includes assets from various sources:
 3. Click `Build` or `Build and Run`
 4. Choose an output directory
 
-## 🐛 Known Issues
+## Known Issues
 
 - Large file sizes: The project uses Git LFS for binary assets. Ensure Git LFS is properly installed and initialized.
 - Build artifacts: The `.gitignore` excludes build folders. Rebuild the project after cloning.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📝 License
+## License
 
 This project is provided as-is. Please check individual asset licenses for usage rights.
 
-## 👤 Author
-
-Created by vkans
-
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Unity Technologies for the Unity Engine
 - All asset creators and contributors
